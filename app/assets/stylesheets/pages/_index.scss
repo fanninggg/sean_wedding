@@ -1,2 +1,12 @@
 // Import page-specific CSS files here.
 @import "home";
+@import "common";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Raleway";
+  letter-spacing: 1px;
+}
